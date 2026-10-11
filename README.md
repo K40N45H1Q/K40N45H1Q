@@ -80,6 +80,10 @@
       alt="Tailwind CSS"
     />
     <img
+      src="https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=7952B3"
+      alt="Bootstrap"
+    />
+    <img
       src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688"
       alt="FastAPI"
     />
