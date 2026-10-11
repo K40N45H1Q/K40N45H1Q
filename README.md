@@ -45,8 +45,20 @@
 
   <p align="center">
     <img
+      src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"
+      alt="HTML5"
+    />
+    <img
+      src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=663399"
+      alt="CSS3"
+    />
+    <img
       src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"
       alt="Next.js"
+    />
+    <img
+      src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"
+      alt="Node.js"
     />
     <img
       src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"
