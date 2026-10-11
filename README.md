@@ -2,7 +2,7 @@
 
   <a href="https://t.me/K40N45H1Q">
     <img
-      src="https://img.shields.io/badge/K40N45H1Q-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"
+      src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"
       height="44"
       alt="Telegram"
     />
