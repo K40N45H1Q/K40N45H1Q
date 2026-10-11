@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://t.me/K40N45H1Q">
+  <a href="https://t.me/gh0571n5h311">
     <img
       src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"
       height="44"
