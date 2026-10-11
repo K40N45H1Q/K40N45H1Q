@@ -1,10 +1,10 @@
 <div align="center">
 
-  <a href="https://github.com/K40N45H1Q">
+  <a href="https://t.me/gh0571n5h311">
     <img
-      src="https://img.shields.io/badge/K40N45H1Q-161B22?style=for-the-badge&logo=github&logoColor=22C55E"
+      src="https://img.shields.io/badge/K40N45H1Q-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"
       height="44"
-      alt="K40N45H1Q"
+      alt="Telegram"
     />
   </a>
 
@@ -151,6 +151,10 @@
     <img
       src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1"
       alt="Arch Linux"
+    />
+    <img
+      src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"
+      alt="Git"
     />
     <img
       src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"
