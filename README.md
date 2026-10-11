@@ -156,16 +156,17 @@
       alt="Linux"
     />
     <img
-      src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1"
-      alt="Arch Linux"
+      src="https://img.shields.io/badge/UFW-161B22?style=for-the-badge&logo=linux&logoColor=22C55E"
+      alt="UFW"
     />
     <img
       src="https://img.shields.io/badge/iptables-161B22?style=for-the-badge&logo=linux&logoColor=22C55E"
       alt="iptables"
     />
+    <br />
     <img
-      src="https://img.shields.io/badge/UFW-161B22?style=for-the-badge&logo=linux&logoColor=22C55E"
-      alt="UFW"
+      src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1"
+      alt="Arch Linux"
     />
     <img
       src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"
@@ -175,6 +176,7 @@
       src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"
       alt="Docker"
     />
+    <br />
     <img
       src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF"
       alt="GitHub Actions"
@@ -187,6 +189,7 @@
       src="https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020"
       alt="Cloudflare"
     />
+    <br />
     <img
       src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
       alt="Vercel"
