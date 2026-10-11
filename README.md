@@ -182,12 +182,24 @@
       alt="Metasploit"
     />
     <img
+      src="https://img.shields.io/badge/ROUTERSPLOIT-163321?style=for-the-badge&labelColor=163321&color=163321"
+      alt="RouterSploit"
+    />
+    <img
+      src="https://img.shields.io/badge/PEASS--ng-163321?style=for-the-badge&labelColor=163321&color=163321"
+      alt="PEASS-ng"
+    />
+    <img
       src="https://img.shields.io/badge/SQLMAP-163321?style=for-the-badge&labelColor=163321&color=163321"
       alt="SQLmap"
     />
     <img
       src="https://img.shields.io/badge/HASHCAT-163321?style=for-the-badge&labelColor=163321&color=163321"
       alt="Hashcat"
+    />
+    <img
+      src="https://img.shields.io/badge/SET-163321?style=for-the-badge&labelColor=163321&color=163321"
+      alt="Social-Engineer Toolkit"
     />
   </p>
 
