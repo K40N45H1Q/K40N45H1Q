@@ -160,6 +160,14 @@
       alt="Arch Linux"
     />
     <img
+      src="https://img.shields.io/badge/iptables-161B22?style=for-the-badge&logo=linux&logoColor=22C55E"
+      alt="iptables"
+    />
+    <img
+      src="https://img.shields.io/badge/UFW-161B22?style=for-the-badge&logo=linux&logoColor=22C55E"
+      alt="UFW"
+    />
+    <img
       src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"
       alt="Git"
     />
