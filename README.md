@@ -75,13 +75,13 @@
   <h3>Operating Systems</h3>
 
   <p align="center">
-    <picture><img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=0078D4" alt="Windows" /></picture>
     <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/Qubes_OS-161B22?style=for-the-badge&logo=qubesos&logoColor=3874D8" alt="Qubes OS" /></picture>
     <picture><img src="https://img.shields.io/badge/Tails-161B22?style=for-the-badge&logo=tails&logoColor=56347C" alt="Tails" /></picture>
     <picture><img src="https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge&logo=archlinux&logoColor=FF0000" alt="BlackArch" /></picture>
     <picture><img src="https://img.shields.io/badge/Parrot_OS-161B22?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED" alt="Parrot OS" /></picture>
+    <picture><img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Windows" /></picture>
   </p>
 
   <h3>Security &amp; Pentesting</h3>
