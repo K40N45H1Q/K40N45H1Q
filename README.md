@@ -1,19 +1,15 @@
 <div align="center">
 
-  <a href="https://t.me/gh0571n5h311">
-    <img
-      src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"
-      height="44"
-      alt="Telegram"
-    />
-  </a>
-  <a href="https://www.facebook.com/61584485476012">
-    <img
-      src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=0866FF"
-      height="44"
-      alt="Facebook"
-    />
-  </a>
+  <img
+    src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"
+    height="44"
+    alt="Telegram"
+  />
+  <img
+    src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=0866FF"
+    height="44"
+    alt="Facebook"
+  />
 
   <h3>Programming Languages</h3>
 
