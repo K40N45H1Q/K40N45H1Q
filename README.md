@@ -46,16 +46,6 @@
     <picture><img src="https://img.shields.io/badge/TronPy-161B22?style=for-the-badge&logo=python&logoColor=FF060A" alt="TronPy" /></picture>
   </p>
 
-  <h3>Operating Systems</h3>
-
-  <p align="center">
-    <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
-    <picture><img src="https://img.shields.io/badge/Qubes_OS-161B22?style=for-the-badge&logo=qubesos&logoColor=3874D8" alt="Qubes OS" /></picture>
-    <picture><img src="https://img.shields.io/badge/Tails-161B22?style=for-the-badge&logo=tails&logoColor=56347C" alt="Tails" /></picture>
-    <picture><img src="https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" /></picture>
-    <picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="BlackArch" /></picture>
-  </p>
-
   <h3>Databases &amp; Cache</h3>
 
   <p align="center">
@@ -68,11 +58,10 @@
   <h3>Cloud &amp; DevOps</h3>
 
   <p align="center">
-    <picture><img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></picture>
+    <picture><img src="https://img.shields.io/badge/GNU%2FLinux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="GNU/Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/UFW-161B22?style=for-the-badge&logo=linux&logoColor=22C55E" alt="UFW" /></picture>
     <picture><img src="https://img.shields.io/badge/iptables-161B22?style=for-the-badge&logo=linux&logoColor=22C55E" alt="iptables" /></picture>
     <br />
-    <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></picture>
     <picture><img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /></picture>
     <br />
@@ -81,6 +70,18 @@
     <picture><img src="https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" /></picture>
     <br />
     <picture><img src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" /></picture>
+  </p>
+
+  <h3>Operating Systems</h3>
+
+  <p align="center">
+    <picture><img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=0078D4" alt="Windows" /></picture>
+    <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
+    <picture><img src="https://img.shields.io/badge/Qubes_OS-161B22?style=for-the-badge&logo=qubesos&logoColor=3874D8" alt="Qubes OS" /></picture>
+    <picture><img src="https://img.shields.io/badge/Tails-161B22?style=for-the-badge&logo=tails&logoColor=56347C" alt="Tails" /></picture>
+    <picture><img src="https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" /></picture>
+    <picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge&logo=archlinux&logoColor=FF0000" alt="BlackArch" /></picture>
+    <picture><img src="https://img.shields.io/badge/Parrot_OS-161B22?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED" alt="Parrot OS" /></picture>
   </p>
 
   <h3>Security &amp; Pentesting</h3>
@@ -98,15 +99,13 @@
   </p>
 
   <h3>☕ Buy Me a Coffee</h3>
-  
+
   <p align="center">
-    <picture>
-      <img
-        src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTB2bmtnbjFyaXB2OW85eHpqd3VscGE4YzZpdWVpZ2MyY256a29zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUIm5wu6LAAog/giphy.gif"
-        width="500"
-        alt="Puss in Boots"
-      />
-    </picture>
+    <picture><img
+      src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTB2bmtnbjFyaXB2OW85eHpqd3VscGE4YzZpdWVpZ2MyY256a29zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUIm5wu6LAAog/giphy.gif"
+      width="500"
+      alt="Puss in Boots"
+    /></picture>
   </p>
 
   <p align="center">
