@@ -89,13 +89,13 @@
 
   <h3>☕ Buy Me a Coffee</h3>
 
-  <p align="center">
+  <picture>
     <img
       src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTB2bmtnbjFyaXB2OW85eHpqd3VscGE4YzZpdWVpZ2MyY256a29zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUIm5wu6LAAog/giphy.gif"
       width="500"
       alt="Puss in Boots"
     />
-  </p>
+  </picture>
 
   <p align="center">
     <picture><img src="https://img.shields.io/badge/Bitcoin-161B22?style=flat-square&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" /></picture>
