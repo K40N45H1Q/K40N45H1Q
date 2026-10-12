@@ -10,13 +10,13 @@
   <h3>Programming Languages</h3>
 
   <p align="center">
-    <a href="#-">
+    <a href="">
       <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
     </a>
-    <a href="#-">
+    <a href="">
       <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
     </a>
-    <a href="#-">
+    <a href="">
       <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
     </a>
     <a href="#-">
