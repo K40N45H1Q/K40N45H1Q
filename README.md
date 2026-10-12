@@ -201,9 +201,7 @@
       <img src="https://img.shields.io/badge/Bitcoin-161B22?style=flat-square&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" />
     </a>
     <br />
-    <sub>
-      <code>bc1qptfgnsgdm3g4kwlae4jmtczgjtju6mzacznnzt</code>
-    </sub>
+    <code>bc1qptfgnsgdm3g4kwlae4jmtczgjtju6mzacznnzt</code>
   </p>
 
   <p align="center">
@@ -211,9 +209,7 @@
       <img src="https://img.shields.io/badge/Litecoin-161B22?style=flat-square&logo=litecoin&logoColor=345D9D" alt="Litecoin" />
     </a>
     <br />
-    <sub>
-      <code>LdxDyr9mcdcji9y1wXPP3csB3SmDhADG5z</code>
-    </sub>
+    <code>LdxDyr9mcdcji9y1wXPP3csB3SmDhADG5z</code>
   </p>
 
   <p align="center">
@@ -221,9 +217,7 @@
       <img src="https://img.shields.io/badge/Monero-161B22?style=flat-square&logo=monero&logoColor=FF6600" alt="Monero" />
     </a>
     <br />
-    <sub>
-      <code>42oP2KshU5LFHy3UVi6bowLrzWzzAXst47Y1NBphWaz8fUAoMPCy5GUis8e4UUiC9fj4cPCxkARdTDJxTftqMkrEHTEjq4E</code>
-    </sub>
+    <code>42oP2KshU5LFHy3UVi6bowLrzWzzAXst47Y1NBphWaz8fUAoMPCy5GUis8e4UUiC9fj4cPCxkARdTDJxTftqMkrEHTEjq4E</code>
   </p>
 
 </div>
