@@ -81,8 +81,8 @@
     <picture><img src="https://img.shields.io/badge/Parrot_OS-161B22?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED" alt="Parrot OS" /></picture>
     <picture><img src="https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge&logo=archlinux&logoColor=FF0000" alt="BlackArch" /></picture>
-    <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/Artix_Linux-161B22?style=for-the-badge&logo=artixlinux&logoColor=10A0CC" alt="Artix Linux" /></picture>
+    <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
   </p>
 
   <h3>Security &amp; Pentesting</h3>
