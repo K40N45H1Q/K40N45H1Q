@@ -108,6 +108,12 @@
       alt="Puss in Boots"
     /></picture>
   </p>
+  
+  <p align="center">
+    <picture><img src="https://img.shields.io/badge/Monero-161B22?style=flat-square&logo=monero&logoColor=FF6600" alt="Monero" /></picture>
+    <br />
+    <code>42oP2KshU5LFHy3UVi6bowLrzWzzAXst47Y1NBphWaz8fUAoMPCy5GUis8e4UUiC9fj4cPCxkARdTDJxTftqMkrEHTEjq4E</code>
+  </p>
 
   <p align="center">
     <picture><img src="https://img.shields.io/badge/Bitcoin-161B22?style=flat-square&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" /></picture>
@@ -120,11 +126,5 @@
     <br />
     <code>LdxDyr9mcdcji9y1wXPP3csB3SmDhADG5z</code>
   </p>
-
-  <p align="center">
-    <picture><img src="https://img.shields.io/badge/Monero-161B22?style=flat-square&logo=monero&logoColor=FF6600" alt="Monero" /></picture>
-    <br />
-    <code>42oP2KshU5LFHy3UVi6bowLrzWzzAXst47Y1NBphWaz8fUAoMPCy5GUis8e4UUiC9fj4cPCxkARdTDJxTftqMkrEHTEjq4E</code>
-  </p>
-
+  
 </div>
