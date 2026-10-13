@@ -78,12 +78,12 @@
     <picture><img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwNzhENCIgZD0iTTAgMy40IDkuNyAydjkuM0gwem0xMS0xLjZMMjQgMHYxMS4zSDExek0wIDEyLjdoOS43VjIyTDAgMjAuNnptMTEgMGgxM1YyNGwtMTMtMS44eiIvPjwvc3ZnPg==" alt="Windows" /></picture>
     <picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" /></picture>
     <picture><img src="https://img.shields.io/badge/Artix_Linux-161B22?style=for-the-badge&logo=artixlinux&logoColor=10A0CC" alt="Artix Linux" /></picture>
-    <picture><img src="https://img.shields.io/badge/Devuan-161B22?style=for-the-badge&logo=debian&logoColor=A80030" alt="Devuan" /></picture>
+    <picture><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Devuan-emblem.svg" height="28" alt="Devuan logo" /></picture> <picture><img src="https://img.shields.io/badge/Devuan-161B22?style=for-the-badge" alt="Devuan" /></picture>
     <picture><img src="https://img.shields.io/badge/Qubes_OS-161B22?style=for-the-badge&logo=qubesos&logoColor=3874D8" alt="Qubes OS" /></picture>
     <picture><img src="https://img.shields.io/badge/Tails-161B22?style=for-the-badge&logo=tails&logoColor=56347C" alt="Tails" /></picture>
     <picture><img src="https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" /></picture>
-    <picture><img src="https://img.shields.io/badge/Whonix-161B22?style=for-the-badge&logo=torproject&logoColor=7D4698" alt="Whonix" /></picture>
-    <picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge&logo=archlinux&logoColor=FF0000" alt="BlackArch" /></picture>
+    <picture><img src="https://www.whonix.org/wiki/Special:Redirect/file/Whonix-logo-icon.svg" height="28" alt="Whonix logo" /></picture> <picture><img src="https://img.shields.io/badge/Whonix-161B22?style=for-the-badge" alt="Whonix" /></picture>
+    <picture><img src="https://github.com/BlackArch.png" height="28" alt="BlackArch project logo" /></picture> <picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge" alt="BlackArch" /></picture>
     <picture><img src="https://img.shields.io/badge/Parrot_OS-161B22?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED" alt="Parrot OS" /></picture>
   </p>
 
