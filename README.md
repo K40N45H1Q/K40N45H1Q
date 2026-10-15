@@ -2,7 +2,7 @@
 <div align="center">
 
   <p align="center">
-    <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="750" /></picture>
+    <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="800" /></picture>
   </p>
   
   <a href="https://t.me/gh0571n5h311"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="44" alt="Telegram" /></a>
