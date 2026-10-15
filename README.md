@@ -1,8 +1,6 @@
 
 <div align="center">
 
-  <h3>Certificate of Intergalactic Programming Excellence</h3>
-
   <p align="center">
     <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="900" /></picture>
   </p>
