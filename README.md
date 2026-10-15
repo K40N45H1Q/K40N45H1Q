@@ -1,6 +1,12 @@
 
 <div align="center">
 
+  <h3>Certificate of Intergalactic Programming Excellence</h3>
+
+  <p align="center">
+    <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="900" /></picture>
+  </p>
+  
   <a href="https://t.me/gh0571n5h311"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="44" alt="Telegram" /></a>
   <a href="https://www.facebook.com/61584485476012"><img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=0866FF" height="44" alt="Facebook" /></a>
   <h3>Programming Languages</h3>
@@ -100,11 +106,6 @@
     <picture><img src="https://img.shields.io/badge/SET-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Social-Engineer Toolkit" /></picture>
   </p>
 
-  <h3>Certificate of Intergalactic Programming Excellence</h3>
-
-  <p align="center">
-    <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="900" /></picture>
-  </p>
 
   <h3>☕ Buy Me a Coffee</h3>
 
