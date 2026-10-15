@@ -103,7 +103,7 @@
   <h3>Certificate of Intergalactic Programming Excellence</h3>
 
   <p align="center">
-    <picture><img src="./resources/nasa-certificate.png" alt="Certificate of Intergalactic Programming Excellence" width="900" /></picture>
+    <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="900" /></picture>
   </p>
 
   <h3>☕ Buy Me a Coffee</h3>
