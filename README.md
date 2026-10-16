@@ -1,10 +1,6 @@
 
 <div align="center">
 
-  <p align="center">
-    <picture><img src="./resources/certificate.jpg" alt="Certificate of Intergalactic Programming Excellence" width="800" /></picture>
-  </p>
-
   <h3>Programming Languages</h3>
 
   <p align="center">
