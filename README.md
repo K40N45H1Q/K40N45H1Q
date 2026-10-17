@@ -62,9 +62,6 @@
     <td align="center"><picture><img src="https://img.shields.io/badge/BlackArch-161B22?style=for-the-badge&logo=archlinux&logoColor=FF0000" width="110" alt="BlackArch" /></picture></td>
     <td align="center"><picture><img src="https://img.shields.io/badge/Artix_Linux-161B22?style=for-the-badge&logo=artixlinux&logoColor=10A0CC" width="110" alt="Artix Linux" /></picture></td>
     <td align="center"><picture><img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" width="110" alt="Arch Linux" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/BURP%20SUITE-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Burp Suite" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/WIRESHARK-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Wireshark" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/NMAP-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Nmap" /></picture></td>
   </tr>
 </table>
 
