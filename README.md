@@ -66,12 +66,20 @@
     <td align="center"><picture><img src="https://img.shields.io/badge/WIRESHARK-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Wireshark" /></picture></td>
     <td align="center"><picture><img src="https://img.shields.io/badge/NMAP-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Nmap" /></picture></td>
   </tr>
-  <tr>
-    <td align="center"><picture><img src="https://img.shields.io/badge/METASPLOIT-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Metasploit" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/ROUTERSPLOIT-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="RouterSploit" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/PEASS--ng-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="PEASS-ng" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/SQLMAP-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="SQLmap" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/HASHCAT-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Hashcat" /></picture></td>
-    <td align="center"><picture><img src="https://img.shields.io/badge/SET-163321?style=for-the-badge&labelColor=163321&color=163321" width="110" alt="Social-Engineer Toolkit" /></picture></td>
-  </tr>
 </table>
+
+
+<h3 align="center">Security &amp; Pentesting</h3>
+
+<p align="center">
+  <picture><img src="https://img.shields.io/badge/BURP%20SUITE-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Burp Suite" /></picture>
+  <picture><img src="https://img.shields.io/badge/WIRESHARK-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Wireshark" /></picture>
+  <picture><img src="https://img.shields.io/badge/NMAP-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Nmap" /></picture>
+  <picture><img src="https://img.shields.io/badge/METASPLOIT-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Metasploit" /></picture>
+  <picture><img src="https://img.shields.io/badge/ROUTERSPLOIT-163321?style=for-the-badge&labelColor=163321&color=163321" alt="RouterSploit" /></picture>
+  <picture><img src="https://img.shields.io/badge/PEASS--ng-163321?style=for-the-badge&labelColor=163321&color=163321" alt="PEASS-ng" /></picture>
+  <picture><img src="https://img.shields.io/badge/SQLMAP-163321?style=for-the-badge&labelColor=163321&color=163321" alt="SQLmap" /></picture>
+  <picture><img src="https://img.shields.io/badge/HASHCAT-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Hashcat" /></picture>
+  <picture><img src="https://img.shields.io/badge/SET-163321?style=for-the-badge&labelColor=163321&color=163321" alt="Social-Engineer Toolkit" /></picture>
+</p>
+
