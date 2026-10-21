@@ -72,6 +72,7 @@
       <picture>
         <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white">
       </picture>
+      <br>
       <picture>
         <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
       </picture>
