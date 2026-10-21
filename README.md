@@ -112,6 +112,9 @@
     <img src="https://media.giphy.com/media/3o6Zt3OhbsQ5VLPmBW/giphy.gif" width="190">
   </picture>
   <p></p>
+  <a href="https://t.me/gh0571n5h311"><picture><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></picture></a>
+  <a href="https://github.com/K40N45H1Q"><picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></picture></a>
+  <p></p>
   <details>
     <summary><b>Support & Donations ❤️</b></summary>
     <p></p>
@@ -129,7 +132,5 @@
   </details>
 </p>
 <p align="center">
-  <a href="https://github.com/K40N45H1Q"><picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></picture></a>
-  <a href="https://t.me/gh0571n5h311"><picture><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></picture></a>
 </p>
 </div>
