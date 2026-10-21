@@ -170,45 +170,19 @@
     </p>
   </details>
   <!-- KEV:START -->
-  <details>
-    <summary>
-      <b>Latest Exploited Vulnerabilities 🦠</b>
-    </summary>
-    <p></p>
-    <p>
-      <sub>Auto-updated hourly · Last update: 2026-10-21 13:48 UTC</sub>
-    </p>
-    <p></p>
-    <p>
-      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-106931">
-        <b>CVE-2026-106931</b>
-      </a> · EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability · EG Secure Solutions / SiteGuard Server Edition · 2026-10-20
-    </p>
-    <p>
-      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96656">
-        <b>CVE-2026-96656</b>
-      </a> · Plex Media Server External Control of File Name or Path Vulnerability · Plex / Media Server · 2026-10-20
-    </p>
-    <p>
-      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96655">
-        <b>CVE-2026-96655</b>
-      </a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20
-    </p>
-    <p>
-      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96654">
-        <b>CVE-2026-96654</b>
-      </a> · Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability · Plex / Media Server · 2026-10-20
-    </p>
-    <p>
-      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96652">
-        <b>CVE-2026-96652</b>
-      </a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20
-    </p>
-    <p>
-      <sub>Source: CISA KEV</sub>
-    </p>
-  </details>
-  <!-- KEV:END -->
+<details>
+  <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
+  <p></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-21 18:39 UTC</sub></p>
+  <p></p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-106931"><b>CVE-2026-106931</b></a> · EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability · EG Secure Solutions / SiteGuard Server Edition · 2026-10-20</p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96656"><b>CVE-2026-96656</b></a> · Plex Media Server External Control of File Name or Path Vulnerability · Plex / Media Server · 2026-10-20</p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96655"><b>CVE-2026-96655</b></a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20</p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96654"><b>CVE-2026-96654</b></a> · Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability · Plex / Media Server · 2026-10-20</p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96652"><b>CVE-2026-96652</b></a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20</p>
+  <p><sub>Source: CISA KEV</sub></p>
+</details>
+<!-- KEV:END -->
   <!-- CYBERNEWS:START -->
   <details>
     <summary>
