@@ -1,0 +1,41 @@
+name: Update Exploited Vulnerabilities
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-and-telegram-state
+  cancel-in-progress: false
+
+jobs:
+  update-kev:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Update latest exploited vulnerabilities and publish new items
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python .github/scripts/update_kev.py
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md .github/state/telegram-kev.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+users.noreply.github.com"
+          git add README.md .github/state/telegram-kev.json
+          git commit -m "Update latest exploited vulnerabilities"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            git rebase --abort || true
+            sleep 2
+          done
+          exit 1

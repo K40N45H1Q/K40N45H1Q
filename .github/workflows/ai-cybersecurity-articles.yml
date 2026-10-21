@@ -1,0 +1,36 @@
+name: AI Cybersecurity Articles
+
+on:
+  schedule:
+    - cron: "47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-cybersecurity-articles
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish current cybersecurity article
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python .github/scripts/publish_ai_cybersecurity.py
+      - name: Save published-story history
+        run: |
+          if git diff --quiet -- .github/state/ai-cybersecurity-posts.json; then
+            echo "No state changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+users.noreply.github.com"
+          git add .github/state/ai-cybersecurity-posts.json
+          git commit -m "Update AI cybersecurity post history"
+          git push

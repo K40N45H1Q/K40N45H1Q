@@ -1,0 +1,40 @@
+name: Reset Git History
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type RESET to delete previous commit history"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  reset-history:
+    if: inputs.confirm == 'RESET'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Reset history to the latest commit
+        run: |
+          set -euo pipefail
+
+          TREE=$(git rev-parse 'HEAD^{tree}')
+          MESSAGE=$(git log -1 --format=%B)
+
+          NEW_COMMIT=$(printf '%s' "$MESSAGE" | \
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                commit-tree "$TREE")
+
+          git push \
+            --force-with-lease="refs/heads/${GITHUB_REF_NAME}:${GITHUB_SHA}" \
+            origin "${NEW_COMMIT}:refs/heads/${GITHUB_REF_NAME}"
