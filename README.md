@@ -4,13 +4,13 @@
   <summary><b>Programming Languages 🎩</b></summary>
   <p></p>
   <p align="center">
-  <picture><img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></picture>
 </p>
 </details>
 <p></p>
@@ -19,25 +19,25 @@
   <p></p>
 
   <p align="center">
-  <picture><img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/SQLAlchemy-FFFFFF?style=for-the-badge&logo=sqlalchemy&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Scrapy-111111?style=for-the-badge&logo=scrapy&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"></picture>
 </p>
   <p></p>
   <p><b>Telegram Development 💎</b></p>
   <p align="center">
-  <picture><img src="https://img.shields.io/badge/Aiogram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Pyrogram-111111?style=for-the-badge&logo=telegram&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Teloxide-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Pyrogram-1C7ED6?style=for-the-badge&logo=telegram&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Teloxide-000000?style=for-the-badge&logo=telegram&logoColor=white"></picture>
   </p>
 </details>
 <p></p>
@@ -46,19 +46,19 @@
   <summary><b>Databases & Infrastructure 🗄️</b></summary>
   <p></p>
   <p align="center">
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&logo=supabase&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/GNU%2FLinux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Cloudflare-FFFFFF?style=for-the-badge&logo=cloudflare&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/GitHub_Actions-FFFFFF?style=for-the-badge&logo=githubactions&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/UFW-111111?style=for-the-badge&logo=ubuntu&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/iptables-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/iptables-FCC624?style=for-the-badge&logo=linux&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></picture>
 </p>
 </details>
 <p></p>
@@ -66,15 +66,15 @@
   <summary><b>Information Security 🛡️</b></summary>
   <p></p>
   <p align="center">
-  <picture><img src="https://img.shields.io/badge/Burp_Suite-FFFFFF?style=for-the-badge&logo=burpsuite&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/RouterSploit-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/PEASS--ng-111111?style=for-the-badge&logo=linux&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/sqlmap-FFFFFF?style=for-the-badge&logo=databricks&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=hackthebox&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/SET-FFFFFF?style=for-the-badge&logo=kalilinux&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/RouterSploit-4682B4?style=for-the-badge&logo=linux&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/PEASS--ng-D4AF37?style=for-the-badge&logo=linux&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/sqlmap-CC2927?style=for-the-badge&logo=databricks&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Hashcat-E5B800?style=for-the-badge&logo=hackthebox&logoColor=black"></picture>
+  <picture><img src="https://img.shields.io/badge/SET-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></picture>
 </p>
 </details>
 <!-- KEV:START -->
