@@ -1,136 +1,181 @@
 <div align="center">
-<p></p>
-<details>
-  <summary><b>Programming Languages 🎩</b></summary>
-  <p></p>
-  <p align="center">
-  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></picture>
-</p>
-</details>
-<p></p>
-<details>
-  <summary><b>Frameworks & Libraries 🪄</b></summary>
-  <p></p>
-
-  <p align="center">
-  <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"></picture>
-</p>
-  <p></p>
-  <p><b>Telegram Development 💎</b></p>
-  <p align="center">
-  <picture><img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Pyrogram-1C7ED6?style=for-the-badge&logo=telegram&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Teloxide-000000?style=for-the-badge&logo=telegram&logoColor=white"></picture>
-  </p>
-</details>
-<p></p>
-<p></p>
-<details>
-  <summary><b>Databases & Infrastructure 🗄️</b></summary>
-  <p></p>
-  <p align="center">
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/iptables-FCC624?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></picture>
-</p>
-</details>
-<p></p>
-<details>
-  <summary><b>Information Security 🛡️</b></summary>
-  <p></p>
-  <p align="center">
-  <picture><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/RouterSploit-4682B4?style=for-the-badge&logo=linux&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/PEASS--ng-D4AF37?style=for-the-badge&logo=linux&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/sqlmap-CC2927?style=for-the-badge&logo=databricks&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/Hashcat-E5B800?style=for-the-badge&logo=hackthebox&logoColor=black"></picture>
-  <picture><img src="https://img.shields.io/badge/SET-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></picture>
-</p>
-</details>
-<!-- KEV:START -->
-<details>
-  <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
-  <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-21 13:48 UTC</sub></p>
-  <p></p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-106931"><b>CVE-2026-106931</b></a> · EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability · EG Secure Solutions / SiteGuard Server Edition · 2026-10-20</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96656"><b>CVE-2026-96656</b></a> · Plex Media Server External Control of File Name or Path Vulnerability · Plex / Media Server · 2026-10-20</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96655"><b>CVE-2026-96655</b></a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96654"><b>CVE-2026-96654</b></a> · Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability · Plex / Media Server · 2026-10-20</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96652"><b>CVE-2026-96652</b></a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20</p>
-  <p><sub>Source: CISA KEV</sub></p>
-</details>
-<!-- KEV:END -->
-<!-- CYBERNEWS:START -->
-<details>
-  <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
-  <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-21 14:06 UTC</sub></p>
-  <p></p>
-  <p><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5"><b>State Bank of India reports cyberattack involving nearly 3,900 customer records - Reuters</b></a> · Reuters · 2026-10-21 · State Bank of India reports cyberattack involving nearly 3,900 customer records Reuters</p>
-  <p><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1BT19QRzNXZGRDeDRJODJMVWxmblZ2NWY5OVVXSXhqbW9MMWVlbkVYMHVTaTNLa0NlVURxTUllb050MXZaMUVIdlpQQTFBU2dTeE9Xdl9lNk9aNkxCYkFUek5hR2RqTWctSTkyT0FneHBFbkZ4Y0g0akxMcU53RFFldTUtY2o4RDk4R1dYa1c0ZGVUTkdqQ3RCNmUzN3IzWjR5WHBHVTZPNHRvODZ3eEc3MkRTYjFnRTkwWGN1MHFsbGZK?oc=5"><b>Germany's far-right AfD investigates publication of emails stolen in cyberattack - Reuters</b></a> · Reuters · 2026-10-20 · Germany's far-right AfD investigates publication of emails stolen in cyberattack Reuters</p>
-  <p><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVd3UUR6VG9nM2tIWDlpUkQtaEt4cFBhbXVWODlPU2tXMVgwa21RWmRXeVFyZ1MxM2pZMjJYWGNYdGV4ek4wZ004dW5nZ1Zjczk4UlBDaE1xMzktTUxWNlJwb2pUUmVkdWJkdUt6bm5oYUhTbHU2QUpkT3lFaXQxLXlSY0xXOFUzMDVHTWVkYmo0YmdlNTJqLVU3ZVJvanE0UDdwS2NjSEh1VF9x?oc=5"><b>California settles 23andMe data breach claims for $6 million - Reuters</b></a> · Reuters · 2026-10-19 · California settles 23andMe data breach claims for $6 million Reuters</p>
-  <p><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXJ0TlBxOG5iQTZ5RzZwWUE4NHN2RkhQa3pEVHEzSERJcVo1bklxdm8xYXFzVDlaelR0b2w1UWhnQ0xMdkpDUTZWdTNhZHZKdlZBMk9lQjIyRTl0MGtjMGhyZEVmanV1U1RTQkdUTGYxakxUT2Y5VHhRNlBUQ19rbUpieGNnM1FSYlVQZEdZRWRzUDhlUnlqYQ?oc=5"><b>Explainer: Could hackers get inside my fridge? - Reuters</b></a> · Reuters · 2026-10-17 · Explainer: Could hackers get inside my fridge? Reuters</p>
-  <p><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnI4RTM2MDNWV21Ha0tHZjV5c0tzRGNpbW9EMHY5VkxIcnZIR3FEQThVbVRQUEt2d3BQaFFJXzE4Z241RFRuY19WUGtMYWUtTTBRbDctRkNnSzBGMXNYTjh1Yk5sR2FMZXBXOEdPbVB5M1A5MmVvQXNWUXd2SzMtRWtuRWFicUVlUDNRM0o4akYzeGFNVXdWUklrUW1kSGp2djk4QlRydmE?oc=5"><b>G7 to launch exercises to guard against AI cyber attacks - Reuters</b></a> · Reuters · 2026-10-16 · G7 to launch exercises to guard against AI cyber attacks Reuters</p>
-  <p><sub>Sources: Reuters</sub></p>
-</details>
-<!-- CYBERNEWS:END -->
-
-<p></p>
-<p align="center">
-  <picture>
-    <img src="https://media.giphy.com/media/3o6Zt3OhbsQ5VLPmBW/giphy.gif" width="190">
-  </picture>
-  <p></p>
-  <a href="https://t.me/gh0571n5h311"><picture><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></picture></a>
-  <a href="https://github.com/K40N45H1Q"><picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></picture></a>
-  <p></p>
   <details>
-    <summary><b>Support & Donations ❤️</b></summary>
-    <p></p>
-    <picture><img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero"></picture>
-    <br>
-    <code>42oP2KshU5LFHy3UVi6bowLrzWzzAXst47Y1NBphWaz8fUAoMPCy5GUis8e4UUiC9fj4cPCxkARdTDJxTftqMkrEHTEjq4E</code>
-    <p></p>
-    <picture><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"></picture>
-    <br>
-    <code>bc1qptfgnsgdm3g4kwlae4jmtczgjtju6mzacznnzt</code>
-    <p></p>
-    <picture><img src="https://img.shields.io/badge/Litecoin-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin"></picture>
-    <br>
-    <code>LdxDyr9mcdcji9y1wXPP3csB3SmDhADG5z</code>
+    <summary>
+      <b>Programming Languages 🎩</b>
+    </summary>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+    </p>
   </details>
-</p>
-<p align="center">
-</p>
+  <details>
+    <summary>
+      <b>Frameworks & Libraries 🪄</b>
+    </summary>
+    <p align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black" alt="Vue.js">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+      <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy">
+      <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram">
+      <img src="https://img.shields.io/badge/Pyrogram-1C7ED6?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram">
+      <img src="https://img.shields.io/badge/Teloxide-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Teloxide">
+    </p>
+  </details>
+  <details>
+    <summary>
+      <b>Databases & Infrastructure 🗄️</b>
+    </summary>
+    <p align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="GNU/Linux">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UFW">
+      <img src="https://img.shields.io/badge/iptables-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="iptables">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    </p>
+  </details>
+  <details>
+    <summary>
+      <b>Information Security 🛡️</b>
+    </summary>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap">
+      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+      <img src="https://img.shields.io/badge/RouterSploit-4682B4?style=for-the-badge&logo=linux&logoColor=white" alt="RouterSploit">
+      <img src="https://img.shields.io/badge/PEASS--ng-D4AF37?style=for-the-badge&logo=linux&logoColor=black" alt="PEASS-ng">
+      <img src="https://img.shields.io/badge/sqlmap-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="sqlmap">
+      <img src="https://img.shields.io/badge/Hashcat-E5B800?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hashcat">
+      <img src="https://img.shields.io/badge/SET-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="SET">
+    </p>
+  </details>
+  <!-- KEV:START -->
+  <details>
+    <summary>
+      <b>Latest Exploited Vulnerabilities 🦠</b>
+    </summary>
+    <p>
+      <sub>Auto-updated hourly · Last update: 2026-10-21 13:48 UTC</sub>
+    </p>
+    <p>
+      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-106931">
+        <b>CVE-2026-106931</b>
+      </a> · EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability · EG Secure Solutions / SiteGuard Server Edition · 2026-10-20
+    </p>
+    <p>
+      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96656">
+        <b>CVE-2026-96656</b>
+      </a> · Plex Media Server External Control of File Name or Path Vulnerability · Plex / Media Server · 2026-10-20
+    </p>
+    <p>
+      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96655">
+        <b>CVE-2026-96655</b>
+      </a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20
+    </p>
+    <p>
+      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96654">
+        <b>CVE-2026-96654</b>
+      </a> · Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability · Plex / Media Server · 2026-10-20
+    </p>
+    <p>
+      <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-96652">
+        <b>CVE-2026-96652</b>
+      </a> · Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability · Plex / Media Server · 2026-10-20
+    </p>
+    <p>
+      <sub>Source: CISA KEV</sub>
+    </p>
+  </details>
+  <!-- KEV:END -->
+  <!-- CYBERNEWS:START -->
+  <details>
+    <summary>
+      <b>Latest Cybercrime & Attack News 📰</b>
+    </summary>
+    <p>
+      <sub>Auto-updated hourly · Last update: 2026-10-21 14:06 UTC</sub>
+    </p>
+    <p>
+      <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5">
+        <b>State Bank of India reports cyberattack involving nearly 3,900 customer records - Reuters</b>
+      </a> · Reuters · 2026-10-21 · State Bank of India reports cyberattack involving nearly 3,900 customer records Reuters
+    </p>
+    <p>
+      <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1BT19QRzNXZGRDeDRJODJMVWxmblZ2NWY5OVVXSXhqbW9MMWVlbkVYMHVTaTNLa0NlVURxTUllb050MXZaMUVIdlpQQTFBU2dTeE9Xdl9lNk9aNkxCYkFUek5hR2RqTWctSTkyT0FneHBFbkZ4Y0g0akxMcU53RFFldTUtY2o4RDk4R1dYa1c0ZGVUTkdqQ3RCNmUzN3IzWjR5WHBHVTZPNHRvODZ3eEc3MkRTYjFnRTkwWGN1MHFsbGZK?oc=5">
+        <b>Germany's far-right AfD investigates publication of emails stolen in cyberattack - Reuters</b>
+      </a> · Reuters · 2026-10-20 · Germany's far-right AfD investigates publication of emails stolen in cyberattack Reuters
+    </p>
+    <p>
+      <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVd3UUR6VG9nM2tIWDlpUkQtaEt4cFBhbXVWODlPU2tXMVgwa21RWmRXeVFyZ1MxM2pZMjJYWGNYdGV4ek4wZ004dW5nZ1Zjczk4UlBDaE1xMzktTUxWNlJwb2pUUmVkdWJkdUt6bm5oYUhTbHU2QUpkT3lFaXQxLXlSY0xXOFUzMDVHTWVkYmo0YmdlNTJqLVU3ZVJvanE0UDdwS2NjSEh1VF9x?oc=5">
+        <b>California settles 23andMe data breach claims for $6 million - Reuters</b>
+      </a> · Reuters · 2026-10-19 · California settles 23andMe data breach claims for $6 million Reuters
+    </p>
+    <p>
+      <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXJ0TlBxOG5iQTZ5RzZwWUE4NHN2RkhQa3pEVHEzSERJcVo1bklxdm8xYXFzVDlaelR0b2w1UWhnQ0xMdkpDUTZWdTNhZHZKdlZBMk9lQjIyRTl0MGtjMGhyZEVmanV1U1RTQkdUTGYxakxUT2Y5VHhRNlBUQ19rbUpieGNnM1FSYlVQZEdZRWRzUDhlUnlqYQ?oc=5">
+        <b>Explainer: Could hackers get inside my fridge? - Reuters</b>
+      </a> · Reuters · 2026-10-17 · Explainer: Could hackers get inside my fridge? Reuters
+    </p>
+    <p>
+      <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnI4RTM2MDNWV21Ha0tHZjV5c0tzRGNpbW9EMHY5VkxIcnZIR3FEQThVbVRQUEt2d3BQaFFJXzE4Z241RFRuY19WUGtMYWUtTTBRbDctRkNnSzBGMXNYTjh1Yk5sR2FMZXBXOEdPbVB5M1A5MmVvQXNWUXd2SzMtRWtuRWFicUVlUDNRM0o4akYzeGFNVXdWUklrUW1kSGp2djk4QlRydmE?oc=5">
+        <b>G7 to launch exercises to guard against AI cyber attacks - Reuters</b>
+      </a> · Reuters · 2026-10-16 · G7 to launch exercises to guard against AI cyber attacks Reuters
+    </p>
+    <p>
+      <sub>Sources: Reuters</sub>
+    </p>
+  </details>
+  <!-- CYBERNEWS:END -->
+  <p>
+    <img src="https://media.giphy.com/media/3o6Zt3OhbsQ5VLPmBW/giphy.gif" width="190" alt="Animated GIF">
+  </p>
+  <p>
+    <a href="https://t.me/gh0571n5h311">
+      <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://github.com/K40N45H1Q">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+  <details>
+    <summary>
+      <b>Support & Donations ❤️</b>
+    </summary>
+    <p>
+      <img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero">
+      <br>
+      <code>42oP2KshU5LFHy3UVi6bowLrzWzzAXst47Y1NBphWaz8fUAoMPCy5GUis8e4UUiC9fj4cPCxkARdTDJxTftqMkrEHTEjq4E</code>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+      <br>
+      <code>bc1qptfgnsgdm3g4kwlae4jmtczgjtju6mzacznnzt</code>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Litecoin-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin">
+      <br>
+      <code>LdxDyr9mcdcji9y1wXPP3csB3SmDhADG5z</code>
+    </p>
+  </details>
 </div>
