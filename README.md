@@ -95,7 +95,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-21 05:08 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-21 07:58 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5"><b>State Bank of India reports cyberattack involving nearly 3,900 customer records - Reuters</b></a> · Reuters · 2026-10-21 · State Bank of India reports cyberattack involving nearly 3,900 customer records Reuters</p>
   <p><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1BT19QRzNXZGRDeDRJODJMVWxmblZ2NWY5OVVXSXhqbW9MMWVlbkVYMHVTaTNLa0NlVURxTUllb050MXZaMUVIdlpQQTFBU2dTeE9Xdl9lNk9aNkxCYkFUek5hR2RqTWctSTkyT0FneHBFbkZ4Y0g0akxMcU53RFFldTUtY2o4RDk4R1dYa1c0ZGVUTkdqQ3RCNmUzN3IzWjR5WHBHVTZPNHRvODZ3eEc3MkRTYjFnRTkwWGN1MHFsbGZK?oc=5"><b>Germany's far-right AfD investigates publication of emails stolen in cyberattack - Reuters</b></a> · Reuters · 2026-10-20 · Germany's far-right AfD investigates publication of emails stolen in cyberattack Reuters</p>
