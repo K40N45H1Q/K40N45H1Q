@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-22 22:43 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-23 01:53 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFlSa1BjRUNIMDhxY21GWElwRXJfQ3NCdGRtMzQ2SUFyRmJwdkRfVjdWRjVLTndOZXk4SERVNzE0T3VGY0tBMUZoWUFIeEo5NjhQYjBwMzFHRnROTjlTelNydjN6d3ZTWFRqZUlIenE3YnYwcmtmZmZxdnItTDNJNTNTM3ZvTXNfNG1UTmc2Z3FpNW4wSDRwWlNsMFl3RzZqYnpSX1dITUJqeG9QTWI0bG1Wc2kwamJmaHMtZjhWbXl2NzlLZ3c?oc=5"><b>Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says - Reuters</b></a> · Reuters · 2026-10-22 · Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says Reuters</p>
   <p><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGZMZ3YzV2F0WmE0eUdxQkZnS24taEt0LW1KeG9wdVB4LUFha2F2SFJ6NmZvcUdNcEdZTUxZTkRLaUxqMnYtNmJQN0NQc09IYU5DbGtkbW9SRFhCUEpIbVh0VjBRTXR2dnhvOTdOdldzYWUyX3ltTTMzdmxUenFXNXpWa1FhOW9yQ3NqZVJ2cnA5QVJkN1FrbFZwQ0p2alpUdGQtN0hrOUNCTkVFR2dscWdXd1ZTSWVSWWh5RjRRQUE5SkhhSTc0?oc=5"><b>Pentagon hit with class action over data breach affecting millions of military members - Reuters</b></a> · Reuters · 2026-10-21 · Pentagon hit with class action over data breach affecting millions of military members Reuters</p>
