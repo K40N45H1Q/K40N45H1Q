@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-24 11:00 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-24 14:33 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-114625"><b>CVE-2026-114625</b></a> · Arista VeloCloud Orchestrator SQL Injection Vulnerability · Arista / VeloCloud Orchestrator · 2026-10-23</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-110447"><b>CVE-2026-110447</b></a> · Collabora Online – Built-in CODE Server OS Command Injection Vulnerability · Collabora / Collabora Online – Built-in CODE Server · 2026-10-23</p>
