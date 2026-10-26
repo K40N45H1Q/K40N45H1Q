@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-25 23:31 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-26 01:39 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5"><b>Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks - Reuters</b></a> · Reuters · 2026-10-24 · Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks Reuters</p>
   <p><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjBybXdvb01FSWlDRkY2NmViemhIVVVmN2FXZEhPU1BJLTZBaWhKSFYxclY3c0ptQ2hxLTFVQmdNSmt6NU9Fa2NtWllwVjU2OHFCalFWc09idGNaUkVtbzdsajB1bnpkWERiYTlfbnVRMjlra3drNUNYWjhFZXg0R2VrSHg1MjJoeDNURDZleHdraXhqM3VSUjk5elY0dExvNkE0RjhOSXltTVRjZmhxSTJiSFBDUFF6NHNSWXVKeVJDLTNQ?oc=5"><b>North Korean internet was hit by DDoS cyberattack, network monitoring firm says - Reuters</b></a> · Reuters · 2026-10-23 · North Korean internet was hit by DDoS cyberattack, network monitoring firm says Reuters</p>
