@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-27 05:04 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-27 10:34 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-109618"><b>CVE-2026-109618</b></a> · PHP Memory Corruption Vulnerability · PHP Group / PHP · 2026-10-26</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-109619"><b>CVE-2026-109619</b></a> · PHP Stale Internal Request-State Vulnerability · PHP Group / PHP · 2026-10-26</p>
