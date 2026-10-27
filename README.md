@@ -173,13 +173,13 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-27 16:39 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-27 21:19 UTC</sub></p>
   <p></p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-48356"><b>CVE-2026-48356</b></a> · Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability · Adobe / Commerce and Magento · 2026-10-27</p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-111497"><b>CVE-2026-111497</b></a> · Google Brotli Unchecked Return Value Vulnerability · Google / Brotli · 2026-10-27</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-109618"><b>CVE-2026-109618</b></a> · PHP Memory Corruption Vulnerability · PHP Group / PHP · 2026-10-26</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-109619"><b>CVE-2026-109619</b></a> · PHP Stale Internal Request-State Vulnerability · PHP Group / PHP · 2026-10-26</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-114625"><b>CVE-2026-114625</b></a> · Arista VeloCloud Orchestrator SQL Injection Vulnerability · Arista / VeloCloud Orchestrator · 2026-10-23</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-110447"><b>CVE-2026-110447</b></a> · Collabora Online – Built-in CODE Server OS Command Injection Vulnerability · Collabora / Collabora Online – Built-in CODE Server · 2026-10-23</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-106931"><b>CVE-2026-106931</b></a> · EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability · EG Secure Solutions / SiteGuard Server Edition · 2026-10-20</p>
   <p><sub>Source: CISA KEV</sub></p>
 </details>
 <!-- KEV:END -->
