@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-27 06:47 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-27 13:32 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOalROR3UtSUJWekNjMEJyV1lUVHZqZ19BaU44dFQ3cEE2NnBHQXBEMmE0NVgyaDZtYlhqZk5ULXZvYUl5eVFaZUQ3T0t1eFdYYUZPQXJhM3Brby1xZGJic1Y4bFJ6YmIwVnNXS1ZoLWlvS0N2S1NUUHFadVJKLTJSZk9lZFF4bDBzdTMteVdKb281dHpOMHZuMTk1T2Q0eXhjcUM1ODJPUnVqR1NnQkJJSy1wdw?oc=5"><b>Japanese companies compensate users as cyberattacks buffet economy - Reuters</b></a> · Reuters · 2026-10-26 · Japanese companies compensate users as cyberattacks buffet economy Reuters</p>
   <p><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5"><b>Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks - Reuters</b></a> · Reuters · 2026-10-24 · Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks Reuters</p>
