@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-28 08:32 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-28 16:02 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-48356"><b>CVE-2026-48356</b></a> · Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability · Adobe / Commerce and Magento · 2026-10-27</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-111497"><b>CVE-2026-111497</b></a> · Google Brotli Unchecked Return Value Vulnerability · Google / Brotli · 2026-10-27</p>
