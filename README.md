@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-29 00:56 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-29 07:05 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-41709"><b>CVE-2026-41709</b></a> · Broadcom VMWare ESX Insufficient Logging Vulnerability · Broadcom / VMware ESX · 2026-10-28</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-46300"><b>CVE-2026-46300</b></a> · Linux Kernel Missing Initialization of a Variable Vulnerability · Linux / Kernel · 2026-10-28</p>
