@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-29 15:31 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-29 20:32 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWtDa2JmUnFRRENlQ0RoX2hseFpyajltZE5vbjUwdnlDeTQ5M01zanFrNTBJcE1NV0RwZGFCd29LQXZQN2RYd3pBZnhNbU91eEdZalRSbVpXbTdnS2VXMXNaWE9ZdV9tSHVub29PUy1kX3BFYTNZUWM2NFpTLTZTWGdLX2hTXzYxR2JPanVaeVowcVZmMTZubVZxZE9QSjFPYmVuQjJFVVZqTUJKRUlMclM0NGM4YTNzMmR0ZUdR?oc=5"><b>EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say - Reuters</b></a> · Reuters · 2026-10-29 · EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say Reuters</p>
   <p><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5"><b>Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters</b></a> · Reuters · 2026-10-29 · Chinese AI model carries out complex cyberattacks in controlled tests, researchers say Reuters</p>
