@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-30 07:06 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-30 14:08 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-97229"><b>CVE-2026-97229</b></a> · GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability · GitLab / Community Edition and Enterprise Edition · 2026-10-29</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76418"><b>CVE-2026-76418</b></a> · Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability · Cisco / Secure Firewall ASA Software and Cisco Secure FTD Software · 2026-10-29</p>
