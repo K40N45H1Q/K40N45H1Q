@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-31 02:41 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-31 09:56 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0JtMmNjNEZZRUV1blBBeFl1MXc2QjFQM3A1akFMdWRYTkdaY0g4ZjR6NUZhWXB0YXdZeXBUbHhzT1F0dUxwVWtvNjZ4V1lrUnNOVEdzWHNpdUhVMi11Y1lFYlFkRHZWbk5aZEQ0OGRrX19lTUVaZzhxVXc2aFRQbWgtN1BoWUtZejR2eWdnbmZtVmk0X1AtSVBaSVpGbFNvUVF2eGtBR2o4NDU2?oc=5"><b>India's AU Small Finance Bank probes potential data leak - Reuters</b></a> · Reuters · 2026-10-30 · India's AU Small Finance Bank probes potential data leak Reuters</p>
   <p><a href="https://apnews.com/article/binance-cryptocurrency-security-hack-north-korea-550e9b876550f71f07098494fe735beb?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTechnology"><b>What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft</b></a> · Associated Press · 2026-10-30 · Binance, the world’s biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record....</p>
