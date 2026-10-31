@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-31 05:40 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-10-31 12:29 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-118527"><b>CVE-2026-118527</b></a> · Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability · Ivanti / Connect Secure · 2026-10-30</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-111357"><b>CVE-2026-111357</b></a> · Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability · Ivanti / Connect Secure · 2026-10-30</p>
