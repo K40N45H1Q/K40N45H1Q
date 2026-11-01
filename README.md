@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-11-01 19:10 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-11-01 23:01 UTC</sub></p>
   <p></p>
   <p><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzUyVHkyOXlvcGI4UWtDeTZ3TTdQYXFXVzhEZFowd2Jlam8tVXJ6Ni12bEZBMXFJbmdyenFHR0lTc0Iyb2pBeW41dVNYOWhJQXJ0VkdBRXBLUllEakoxcUxSSEFqSVFzNTBkbS1DMWc1Vmcxa0lxRVdlOEhTODJPSEhvUU1PRGRYWmpxYlRDdUtGZ3pkTXdNbmJJQzBlaVlOVjRWNXg3RHFiRXVxWklVdEZfSkpMS2JUWUJlMjBRU1g2a2RUeW1VNg?oc=5"><b>Understanding Cyberattack Targeting, Defenses, and Response - Reuters</b></a> · Reuters · 2026-11-01 · Understanding Cyberattack Targeting, Defenses, and Response Reuters</p>
   <p><a href="https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTechnology"><b>FBI blames North Korea for stolen billions from Binance in biggest hack in history</b></a> · Associated Press · 2026-10-31 · New York (AP) — The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI...</p>
