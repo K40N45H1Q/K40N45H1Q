@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-10-31 23:40 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-11-01 06:47 UTC</sub></p>
   <p></p>
   <p><a href="https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTechnology"><b>FBI blames North Korea for stolen billions from Binance in biggest hack in history</b></a> · Associated Press · 2026-10-31 · New York (AP) — The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI...</p>
   <p><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0JtMmNjNEZZRUV1blBBeFl1MXc2QjFQM3A1akFMdWRYTkdaY0g4ZjR6NUZhWXB0YXdZeXBUbHhzT1F0dUxwVWtvNjZ4V1lrUnNOVEdzWHNpdUhVMi11Y1lFYlFkRHZWbk5aZEQ0OGRrX19lTUVaZzhxVXc2aFRQbWgtN1BoWUtZejR2eWdnbmZtVmk0X1AtSVBaSVpGbFNvUVF2eGtBR2o4NDU2?oc=5"><b>India's AU Small Finance Bank probes potential data leak - Reuters</b></a> · Reuters · 2026-10-30 · India's AU Small Finance Bank probes potential data leak Reuters</p>
