@@ -173,13 +173,13 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-11-03 15:07 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-11-03 20:58 UTC</sub></p>
   <p></p>
+  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-119977"><b>CVE-2026-119977</b></a> · WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability · WordPress / WordPress Core · 2026-11-03</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-118527"><b>CVE-2026-118527</b></a> · Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability · Ivanti / Connect Secure · 2026-10-30</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-111357"><b>CVE-2026-111357</b></a> · Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability · Ivanti / Connect Secure · 2026-10-30</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-97229"><b>CVE-2026-97229</b></a> · GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability · GitLab / Community Edition and Enterprise Edition · 2026-10-29</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76418"><b>CVE-2026-76418</b></a> · Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability · Cisco / Secure Firewall ASA Software and Cisco Secure FTD Software · 2026-10-29</p>
-  <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-41709"><b>CVE-2026-41709</b></a> · Broadcom VMWare ESX Insufficient Logging Vulnerability · Broadcom / VMware ESX · 2026-10-28</p>
   <p><sub>Source: CISA KEV</sub></p>
 </details>
 <!-- KEV:END -->
