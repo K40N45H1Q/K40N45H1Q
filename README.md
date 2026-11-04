@@ -187,7 +187,7 @@
 <details>
   <summary><b>Latest Cybercrime & Attack News 📰</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-11-03 19:46 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-11-04 00:52 UTC</sub></p>
   <p></p>
   <p><a href="https://apnews.com/article/supermarkets-europe-internet-cyberattack-food-fridges-hacked-b6abfab3f5cdd65c19476b9032eb7a9d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTechnology"><b>European supermarket fridges got hacked. Again. Here's what to know</b></a> · Associated Press · 2026-11-03 · LONDON (AP) — Mysterious cyberattacks on European supermarket fridges have sent officials around the continent scrambling to figure out the cold, hard facts. Supermarkets in a...</p>
   <p><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXJERWVkQVNRYm1WZE9fbTZRU0ZvcHFMWEVLUjRVQ3BVVFdKNGZXcjR4VWgya0F4UGdlRHhncER0SS1MOEVuYzI4ZEVDYTZzQmduUUhKMlRraWltT0IzbEJsa2hRTzNNRERTUnF0MUJCeWxVTzRfTDJVcXYtVVpKcEpCVVRkdFVRREZuTDZxNGJva2JISnZRcEQ3WlllWnpDOE9BZXprSXV1N2xYcGYtU2R2TjM?oc=5"><b>Italy says cyberattack on supermarket fridges had limited impact - Reuters</b></a> · Reuters · 2026-11-03 · Italy says cyberattack on supermarket fridges had limited impact Reuters</p>
