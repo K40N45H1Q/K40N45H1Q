@@ -173,7 +173,7 @@
 <details>
   <summary><b>Latest Exploited Vulnerabilities 🦠</b></summary>
   <p></p>
-  <p><sub>Auto-updated hourly · Last update: 2026-11-04 22:39 UTC</sub></p>
+  <p><sub>Auto-updated hourly · Last update: 2026-11-05 03:29 UTC</sub></p>
   <p></p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-27834"><b>CVE-2024-27834</b></a> · Apple Multiple Products Improper Authentication Vulnerability · Apple / Multiple Products · 2026-11-04</p>
   <p><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-119977"><b>CVE-2026-119977</b></a> · WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability · WordPress / WordPress Core · 2026-11-03</p>
